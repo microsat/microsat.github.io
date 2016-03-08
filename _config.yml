@@ -1,2 +1,3 @@
 name: Darron Nielsen, Microsat
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
